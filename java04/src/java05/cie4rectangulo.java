@@ -33,7 +33,6 @@ public class cie4rectangulo {
 		
 		System.out.println("La suma de las áreas es: "+suma);
 		System.out.println("La suma de los perímetros es: "+sumap);
-		
 	}
 
 }
