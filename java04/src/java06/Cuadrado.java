@@ -15,8 +15,11 @@ public class Cuadrado {
 		return lado1;
 	}
 	public void setLado2(double lado2) {
-		this.lado2 = lado2;
+		this.lado2 = lado1;
 	}
-	
+	public double area() {
+		return lado1*lado2;
+	}
+
 	
 }
